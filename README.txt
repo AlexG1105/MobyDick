@@ -1,5 +1,8 @@
 Welcome to our ENGLISH 1102 Project!
 
+Setup:
+Download the repository or zip file, then, hit the .app if you're on mac and .exe if on windows!
+
 How to play:
 Your goal is to travel to islands (dock at their ports) and fight bosses by shooting at them. Don't get hit by too many bullets, or you'll die!
 
